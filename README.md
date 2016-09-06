@@ -1,6 +1,6 @@
 This repo tests the arc land command.
 
-one
-two
-three
+One
+Two
+Three
 4
